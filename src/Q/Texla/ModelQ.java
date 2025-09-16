@@ -2,9 +2,9 @@ package Q.Texla;
 
 public class ModelQ extends TexlaCar {
     public ModelQ() {
-        speed = 0;
-        maxSpeed = 300;
-        acceleration = 100;
-        brakingSpeed = 120;
+        int speed = 0;
+        int maxSpeed = 300;
+        int acceleration = 100;
+        int brakingSpeed = 120;
     }
 }

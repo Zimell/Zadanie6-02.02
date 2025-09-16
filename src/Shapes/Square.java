@@ -1,4 +1,4 @@
 package Shapes;
 
-public class Square {
+public class Square extends Figure {
 }

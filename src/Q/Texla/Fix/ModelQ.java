@@ -1,6 +1,5 @@
 package Q.Texla.Fix;
 
-
 public class ModelQ extends Texla {
 
     public ModelQ() {

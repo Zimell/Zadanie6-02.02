@@ -1,9 +1,9 @@
-import .shapes.Circle;
-import .shapes.Ellipse;
-import .shapes.Rectangle;
-import .shapes.Square;
-import .soup.machine.*;
-import animalsounds.*;
+import Machine.Soup.*;
+import Q.Texla.Fix.*;
+import Q.Texla.ModelQ;
+import Q.Texla.Fix.ModelQ;
+import Shapes.*;
+import AnimalSounds.*;
 import Q.Texla.*;
 
 public class Practicum {

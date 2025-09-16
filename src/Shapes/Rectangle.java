@@ -1,4 +1,4 @@
 package Shapes;
 
-public class Rectangle {
+public class Rectangle extends Figure {
 }
